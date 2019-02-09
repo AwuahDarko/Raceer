@@ -1,0 +1,7 @@
+﻿  myGame.cpp
+e:\visual studio 2017\projects\learningsdl1\learningsdl1\mygame.cpp(969): warning C4715: 'myGame::LoadMinitruck': not all control paths return a value
+e:\visual studio 2017\projects\learningsdl1\learningsdl1\mygame.cpp(1460): warning C4715: 'myGame::LoadGameover': not all control paths return a value
+e:\visual studio 2017\projects\learningsdl1\learningsdl1\mygame.cpp(2612): warning C4715: 'myGame::theGameOverLoop': not all control paths return a value
+e:\visual studio 2017\projects\learningsdl1\learningsdl1\mygame.cpp(2652): warning C4715: 'myGame::theSelectionLoop': not all control paths return a value
+e:\visual studio 2017\projects\learningsdl1\learningsdl1\mygame.cpp(2460): warning C4715: 'myGame::theWholeGame': not all control paths return a value
+  learningSDL1.vcxproj -> E:\Visual Studio 2017\Projects\learningSDL1\Debug\learningSDL1.exe
